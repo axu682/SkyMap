@@ -1,0 +1,151 @@
+﻿Aries (Ari)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		3	0	0	0	0	0
+α Ari	K2 III	2	7	10.29	1	23	27	46	2.01		2					
+β Ari	A5 V	1	54	38.35	1	20	48	29.9	2.64		3					
+41 Ari	B8 Vn	2	49	58.99	1	27	15	38.8	3.61		1					
+																
+Taurus (Tau) [Aur]		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		4	8	0	0	0	0
+Aldebaran, α Tau	K5 III	4	35	55.2	1	16	30	35.1	0.87			2				
+β Tau	B7 III	5	26	17.5	1	28	36	28.3	1.65		1					
+Alcyone A, η Tau	B7 III	3	47	29.06	1	24	6	18.9	2.85							
+ζ Tau	B4 IIIP	5	37	38.68	1	21	8	33.3	2.97			1				
+θ2 Tau	A7 III	4	28	39.67	1	15	52	15.4	3.4			3				
+λ Tau	B3 V + A4 IV	4	0	40.82	1	12	29	25.4	3.41			6				
+ε Tau	K0 III	4	28	36.93	1	19	10	49.9	3.53		2					
+ο Tau	G8 III	3	24	48.84	1	9	1	44.6	3.61							
+Atlas A	B8 III	3	49	9.73	1	24	3	12.7	3.62							
+γ Tau	G8 III	4	19	47.53	1	15	37	39.7	3.65		4	5				
+Electra	B6 III	3	44	52.52	1	24	6	48.4	3.72							
+ξ Tau	B9 Vn	3	27	10.12	1	9	43	58	3.73			7				
+δ1 Tau	G8 III	4	22	56.03	1	17	32	33.3	3.77		3					
+θ1 Tau	G7 III	4	28	34.43	1	15	57	44	3.84			4				
+Maia	B8 III	3	45	49.59	1	24	22	4.3	3.87							
+ν Tau	A1 V	4	3	9.38	1	5	59	21.5	3.91			8				
+																
+Gemini (Gem)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		8	0	0	0	0	0
+Pollux, β Gem	K0 III	7	45	19.36	1	28	1	34.7	1.16		4					
+Castor A, α Gem	A2 Vm	7	34	36	1	31	53	19.1	1.9		5					
+γ Gem	A0 IV	6	37	42.7	1	16	23	57.9	1.93		2					
+μ Gem	M3 III	6	22	57.59	1	22	30	49.9	2.87		7					
+Castor B, α Gem	A1 IV	7	34	36	1	31	53	19	2.88							
+ε Gem	G8 Ib	6	43	55.93	1	25	7	52.2	3.06		6					
+η Gem	M3 III	6	14	52.7	1	22	30	24.6	3.31		8					
+ξ Gem	F5 IV	6	45	17.43	1	12	53	45.8	3.35		1					
+δ Gem	F0 IV	7	20	7.39	1	21	58	56.4	3.5		3					
+κ Gem	G8 III	7	44	26.87	1	24	23	53.3	3.57							
+λ Gem	A3 V	7	18	5.61	1	16	32	25.7	3.58							
+θ Gem	A3 III	6	52	47.34	1	33	57	40.9	3.6							
+ι Gem	G9 III	7	25	43.68	1	27	47	53.8	3.78							
+																
+Cancer (Cnc)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		2	0	0	0	0	0
+β Cnc	K4 III	8	16	30.95	1	9	11	8.4	3.53		1					
+δ Cnc	K0 III	8	44	41.11	1	18	9	17.5	3.94		2					
+																
+Leo (Leo)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		3	8	0	0	0	0
+Regulus, α Leo	B7 V	10	8	22.46	1	11	58	1.9	1.36			3				
+Denebola, β Leo	A3 Vvar	11	49	3.88	1	14	34	20.4	2.14		3	1				
+γ1 Leo	K0 III	10	19	58.16	1	19	50	30.7	2.37			5				
+δ Leo	A4 V	11	14	6.41	1	20	31	26.5	2.56		2					
+ε Leo	G0 II	9	45	51.1	1	23	46	27.4	2.97			8				
+θ Leo	A2 V	11	14	14.44	1	15	25	47.1	3.33		1	2				
+ζ Leo	F0 III	10	16	41.4	1	23	25	2.4	3.43			6				
+η Leo	A0 Ib	10	7	19.95	1	16	45	45.6	3.48			4				
+ο Leo A	A5 V	9	41	9.12	1	9	53	32.6	3.52							
+ο Leo B	F9-G0 III ?	9	41	13.4	1	9	54	35	3.7							
+γ2 Leo	G7 IIIb ?	10	19	58.6	1	19	50	26	3.8							
+ρ Leo	B1 Ib SB	10	32	48.68	1	9	18	23.7	3.84							
+μ Leo	K0 III	9	52	45.96	1	26	0	25.5	3.88			7				
+ι Leo	F2 IV SB	11	23	55.37	1	10	31	46.9	4							
+																
+Virgo (Vir)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		5	4	2	2	0	0
+Spica, α Vir	B1 V	13	25	11.6	-1	11	9	40.5	0.98		2		2			
+γ Vir A	F0 V	12	41	40	-1	1	26	58.3	2.74		3			2		
+ε Vir	G8 IIIvar	13	2	10.76	1	10	57	32.8	2.85			4				
+ζ Vir	A3 V	13	34	41.75	-1	0	35	45.4	3.38			2	1			
+δ Vir	M3 III	12	55	36.48	1	3	23	51.4	3.39			3		1		
+β Vir	F8 V	11	50	41.29	1	1	45	55.4	3.59		5					
+γ Vir B	F0 V ?	12	41	39.6	-1	1	26	58	3.68							
+109 Vir	A0 V	14	46	14.99	1	1	53	34.6	3.73			1				
+μ Vir	F2 III	14	43	3.56	-1	5	39	26.7	3.87		1					
+η Vir	A2 IV	12	19	54.39	-1	0	40	0.3	3.89		4					
+																
+Libra (Lib)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		6	2	0	0	0	0
+β Lib	B8 V	15	17	0.47	-1	9	22	58.3	2.61		2	1				
+α2 Lib	A3 IV	14	50	52.78	-1	16	2	29.8	2.75		3					
+σ Lib	M3/M4 III	15	4	4.26	-1	25	16	54.7	3.25		4	2				
+ν Lib	K3 III	15	37	1.46	-1	28	8	6.3	3.6		5					
+τ Lib	B2.5 V	15	38	39.38	-1	29	46	39.7	3.66		6					
+γ Lib	K0 III	15	35	31.54	-1	14	47	22.4	3.91		1					
+																
+Scorpius (Sco)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		14	5	0	0	0	0
+Antares A, α Sco	M1.5 Iab-b	16	29	24.47	-1	26	25	55	0.91		12					
+λ Sco	B2 IV + DA7.9	17	33	36.53	-1	37	6	13.5	1.62		2					
+θ Sco	F1 II	17	37	19.13	-1	42	59	52.2	1.86		6					
+δ Sco	B0.2 Ive	16	0	20.01	-1	22	37	17.8	2.29		14	3				
+ε Sco	K2 IIIb	16	50	10.24	-1	34	17	33.4	2.29		10					
+κ Sco	B1.5 III	17	42	29.28	-1	39	1	47.7	2.39		4					
+β1 Sco	B0.5 V	16	5	26.23	-1	19	48	19.4	2.62			2				
+υ Sco	B2 IV	17	30	45.84	-1	37	17	44.7	2.7		3					
+τ Sco	B0 V	16	35	52.96	-1	28	12	57.5	2.82		11					
+π Sco	B1 V + B2 V	15	58	51.12	-1	26	6	50.6	2.89			4				
+σ Sco	B1 III	16	21	11.32	-1	25	35	33.9	2.9		13					
+ι1 Sco	F2 Ia	17	47	35.08	-1	40	7	37.1	2.99		5					
+μ1 Sco	B1.5 IV + B	16	51	52.24	-1	38	2	50.4	3		9					
+G Sco	K0/K1 III	17	49	51.45	-1	37	2	36.1	3.19		1					
+η Sco	F3 IV	17	12	9.18	-1	43	14	18.6	3.32		7					
+μ2 Sco	B2 IV	16	52	20.15	-1	38	1	2.9	3.56							
+ζ2 Sco	K4 III	16	54	35.11	-1	42	21	38.7	3.62		8					
+ρ Sco	B2 IV/V	15	56	53.09	-1	29	12	50.4	3.87			5				
+ω1 Sco	B1 V + B2 V	16	6	48.43	-1	20	40	8.9	3.93							
+ν Sco	B2 IV	16	11	59.74	-1	19	27	38.3	4			1				
+																
+Sagittarius (Sgr)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		5	8	4	2	3	
+ε Sgr	B9.5 III	18	24	10.35	-1	34	23	3.5	1.79		4	5				
+σ Sgr	B2.5 V	18	55	15.92	-1	26	17	47.7	2.05			8	4		1	
+ζ Sgr	A3 IV	19	2	36.72	-1	29	52	48.4	2.6			6			3	
+δ Sgr	K3 III	18	20	59.62	-1	29	49	40.9	2.72		3	3				
+λ Sgr	K1 IIIb	18	27	58.27	-1	25	25	16.5	2.82		2	1				
+π Sgr	F2 II/III	19	9	45.83	-1	21	1	24.7	2.88				2			
+γ2 Sgr	K0 III	18	5	48.52	-1	30	25	25.1	2.98			4				
+η Sgr	M2 III	18	17	37.73	-1	36	45	40.6	3.1		5					
+φ Sgr	B8.5 III	18	45	39.36	-1	26	59	26.8	3.17			2			2	
+τ Sgr	K1/K2 III	19	6	56.44	-1	27	40	11.3	3.32			7				
+ξ2 Sgr	G8/K0 II/III	18	57	43.78	-1	21	6	23.8	3.52					1		
+ο Sgr	K0 III	19	4	40.93	-1	21	44	28.9	3.76				3	2		
+μ Sgr	B2 III:	18	13	45.81	-1	21	3	31.8	3.84		1					
+ρ1 Sgr	F0 III/IV	19	21	40.38	-1	17	50	50.1	3.92				1			
+β1 Sgr	B9 V	19	22	38.29	-1	44	27	32.1	3.96							
+α Sgr	B8 V	19	23	53.15	-1	40	36	56.3	3.96							
+																
+Capricornus (Cap)		RA				Dec			mag							
+Star		h	m	s		deg	arcmin	arcsec	vm		0	0	0	0	0	0
+δ Cap	A7 IIIm	21	47	2.29	-1	16	7	35.6	2.85							
+β1 Cap	A5 :n	20	21	0.65	-1	14	46	53	3.05							
+α2 Cap	G6/G8 III	20	18	3.22	-1	12	32	41.5	3.58							
+γ Cap	A7 III:mp	21	40	5.34	-1	16	39	44.1	3.69							
+ζ Cap	G4 Ibp	21	26	40.03	-1	22	24	41	3.77							
+																
+Aquarius (Aqr)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		8	0	0	0	0	0
+β Aqr	G0 Ib	21	31	33.52	-1	5	34	16.2	2.9		2					
+α Aqr	G2 Ib	22	5	47.03	-1	0	19	11.4	2.95		3					
+δ Aqr	A3 V	22	54	39.04	-1	15	49	14.7	3.27		7					
+ζ1 Aqr	F3 III-IV	22	28	49.8	-1	0	1	12.2	3.65		5					
+88 Aqr	K1 III	23	9	26.76	-1	21	10	20.9	3.68		8					
+λ Aqr	M2 IIIvar	22	52	36.86	-1	7	34	46.8	3.73		6					
+ε Aqr	A1 V	20	47	40.53	-1	9	29	44.5	3.78		1					
+γ Aqr	A0 V	22	21	39.3	-1	1	23	14.5	3.86		4					
+98 Aqr	K0 III	23	22	58.3	-1	20	6	1.2	3.96							
+																
+Pisces (Psc)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		0	0	0	0	0	0
+η Psc	G8 III	1	31	28.99	1	15	20	45	3.62							
+γ Psc	G7 III	23	17	9.49	1	3	16	56.1	3.7							

@@ -1,0 +1,70 @@
+﻿Hydrus (Hyi)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		3	2	0	0	0	0
+β Hyi	G2 IV	0	25	39.2	-1	77	15	18.1	2.79		2					
+α Hyi	F0 V	1	58	45.87	-1	61	34	11.7	2.86		1	2				
+γ Hyi	M2 III	3	47	14.23	-1	74	14	21.3	3.26		3	1				
+																
+Dorado (Dor)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		2	0	0	0	0	0
+α Dor	A0 IIIp(Si)	4	33	59.72	-1	55	2	42	3.3		1					
+β Dor	F4 - G4 Ia-II	5	33	37.52	-1	62	29	23.5	3.76		2					
+																
+Volans (Vol)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		5	0	0	0	0	0
+γ2 Vol	G8 IIIvar	7	8	44.82	-1	70	29	57.1	3.62		4					
+β Vol	K2 IIIvar	8	25	44.25	-1	66	8	11.5	3.77		2	2				
+ζ Vol	K0 III	7	41	49.2	-1	72	36	22.1	3.93		3					
+δ Vol	F6 II	7	16	49.83	-1	67	57	25.8	3.97		5	1				
+α Vol	Am	9	2	26.8	-1	66	23	45	4		1					
+																
+*Chamaeleon (Cha)		RA				Dec			mag							
+																
+Musca (Mus)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		5	2	0	0	0	0
+α Mus	B2 IV-V	12	37	11.08	-1	69	8	7.9	2.69		2	2				
+β Mus	B2 V + B3 V	12	46	16.87	-1	68	6	29.1	3.04		3					
+δ Mus	K2 III	13	2	15.78	-1	71	32	55.7	3.61		4					
+λ Mus	A7 III	11	45	36.57	-1	66	43	43.8	3.68		1					
+γ Mus	B5 V	12	32	28.11	-1	72	7	58.7	3.84		5	1				
+																
+Apus (Aps)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		2	0	0	0	0	0
+α Aps	K5 III	14	47	51.73	-1	79	2	41	3.83		1					
+γ Aps	K0 IV SB	16	33	27.46	-1	78	53	49.1	3.86		2					
+																
+Pavo (Pav)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		5	2	0	0	0	0
+α Pav	B2 IV	20	25	38.85	-1	56	44	5.6	1.94		1					
+β Pav	A5 IV	20	44	57.56	-1	66	12	11.7	3.42		2	2				
+δ Pav	G5 IV-Vvar	20	8	41.86	-1	66	10	45.6	3.55		3					
+η Pav	K1 III	17	45	44	-1	64	43	25.4	3.61		4					
+ε Pav	A0 V	20	0	35.39	-1	72	54	36.7	3.97		5	1				
+																
+Indus (Ind)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		2	0	0	0	0	0
+α Ind	K0 III	20	37	33.99	-1	47	17	30	3.11		1					
+β Ind	K0 III	20	54	48.58	-1	58	27	14.7	3.67		2					
+																
+Grus (Gru)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		4	2	2	0	0	0
+α Gru	B7 IV	22	8	13.88	-1	46	57	38.2	1.73		3					
+β Gru	M5 III	22	42	39.93	-1	46	53	4.4	2.07		4	1	1			
+γ Gru	B8 III	21	53	55.65	-1	37	21	53.4	3		1					
+ε Gru	A3 V	22	48	33.2	-1	51	19	0.1	3.49			2				
+ι Gru	K0 III SB	23	10	21.43	-1	45	14	47.9	3.88							
+δ1 Gru	G6 / G8 III	22	29	16.15	-1	43	29	44	3.97		2		2			
+																
+Phoenix (Phe)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		5	2	0	0	0	0
+α Phe	K0 III	0	26	16.87	-1	42	18	18.4	2.4		4					
+β Phe	G8 IIIvar	1	6	5.11	-1	46	43	6.6	3.32		3	1				
+γ Phe	K5 II-III	1	28	21.94	-1	43	19	3.8	3.41		2					
+ε Phe	K0 III	0	9	24.54	-1	45	44	49.2	3.88		5					
+κ Phe	A7 V	0	26	12.12	-1	43	40	47.7	3.93							
+δ Phe	K0 III-IV	1	31	14.98	-1	49	4	23.1	3.93		1					
+ζ Phe	B6 V + B0 V	1	8	23.06	-1	55	14	45	3.94			2				
+																
+Tucana (Tuc)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		2	0	0	0	0	0
+α Tuc	K3 III	22	18	30.18	-1	60	15	34.2	2.87		1					
+γ Tuc	F1 III	23	17	25.81	-1	58	14	9.3	3.99		2					
