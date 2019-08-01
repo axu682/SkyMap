@@ -1,0 +1,10 @@
+﻿Boötes (Boo)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		7	2	0	0	0	0
+Arcturus, α Boo	K2 IIIp	14	15	40.35	1	19	11	14.2	-0.05		2	2				
+ε Boo	K0 II-III	14	44	59.25	1	27	4	27	2.35		3					
+η  Boo	G0 IV	13	54	41.12	1	18	23	54.9	2.68			3				
+γ Boo	A7 IIIvar	14	32	4.76	1	38	18	28.4	3.04		6					
+δ Boo	G8 III	15	15	30.1	1	33	18	54.4	3.46		4					
+β Boo	G8 III	15	1	56.79	1	40	23	26.3	3.49		5					
+ρ Boo	K3 III	14	31	49.86	1	30	22	16.1	3.57		7	1				
+ζ Boo	A3 Ivn	14	41	8.92	1	13	43	42	3.78		1					

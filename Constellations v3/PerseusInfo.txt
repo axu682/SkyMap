@@ -1,0 +1,98 @@
+﻿Auriga (Aur)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		6	6	2	0	0	0
+Capella, α Aur	G8 III / G0III	5	16	41.3	1	45	59	56.5	0.08		4	2				
+β Aur	A2 V	5	59	31.77	1	44	56	50.8	1.9		6	1	2			
+θ Aur	A0 p Si	5	59	43.24	1	37	12	46	2.62			6	1			
+ι Aur	K3 Iivar	4	56	59.62	1	33	9	58.1	2.69			4				
+ε Aur	F0 Ia	5	1	58.13	1	43	49	23.9	3.03		3					
+η Aur	B3 V	5	6	30.87	1	41	14	4.7	3.18		1	3				
+ζ Aur	K4 II comp	5	2	28.68	1	41	4	33.2	3.69		2					
+δ Aur	K0 III	5	59	31.55	1	54	17	5.9	3.72		5					
+ν Aur	K0 III	5	51	29.39	1	39	8	54.5	3.97							
+^β Tau, Tau	B7 III	5	26	17.5	1	28	36	28.3	1.65			5				
+																
+Perseus (Per)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		12	2	0	0	0	0
+α Per	F5 Ib	3	24	19.35	1	49	51	40.5	1.79		6					
+Algol, β Per	B8 V	3	8	10.13	1	40	57	20.3	2.09		11					
+ζ Per	B1 Ib	3	54	7.92	1	31	53	1.2	2.84		2					
+ε Per	B0.5 V	3	57	51.22	1	40	0	37	2.9		4					
+γ Per A	G8 III	3	4	47.79	1	53	30	23.2	2.91		7					
+γ Per B	A2 V	3	4	44.1	1	53	31	10	3							
+δ per	B5 III SB	3	42	55.48	1	47	47	15.6	3.01		5	2				
+ρ Per	M3 IIIvar	3	5	10.5	1	38	50	25.9	3.32		12					
+η Per	K3 Ib comp SB	2	50	41.79	1	55	53	43.9	3.77		8					
+ν Per	F5 Iivar	3	45	11.64	1	42	34	42.8	3.77							
+κ Per	K0 III	3	9	29.63	1	44	51	28.4	3.79		10					
+ο Per	B1 III	3	44	19.13	1	32	17	17.8	3.84		1					
+τ Per A	G8 IIIa	2	54	15.46	1	52	45	45	3.93		9					
+48 Per	B3 Ve	4	8	39.67	1	47	42	45.3	3.96			1				
+ξ Per	O7.5 Iab:	3	58	57.9	1	35	47	27.7	3.98		3					
+τ Per B	A3-4 V	2	54	20.8	1	52	45	30	4							
+																
+Triangulum (Tri)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		2	0	0	0	0	0	
+β Tri	A5 III	2	9	32.52	1	34	59	14.6	3		1					
+α Tri	F6 IV	1	53	4.9	1	29	34	45.8	3.42		2					
+																
+Andromeda (And) [Peg]		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		4	4	2	0	0	0
+α And	B9 p	0	8	23.17	1	29	5	27	2.07			1				
+β And	M0 IIIvar	1	9	43.8	1	35	37	15	2.07		3		1			
+γ1 And	K3 IIb	2	3	53.92	1	42	19	47.5	2.1		4					
+δ And	K3 III	0	39	19.6	1	30	51	40.4	3.27			2	2			
+51 And	K3 III	1	37	59.5	1	48	37	42.6	3.59		1					
+ο And	B6 pv SB	23	1	55.25	1	42	19	33.5	3.62			4				
+λ And	G8 III-IV	23	37	33.71	1	46	27	33	3.81			3				
+μ And	A5 V	0	56	45.1	1	38	29	57.3	3.86		2					
+																
+Cassiopeia (Cas)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		5	0	0	0	0	0
+γ Cas	B0 IV:evar	0	56	42.5	1	60	43	0.3	2.15		3					
+α Cas	K0 II-IIIvar	0	40	30.39	1	56	32	14.7	2.24		2					
+β Cas	F2 III-IV	0	9	10.09	1	59	9	0.8	2.28		1					
+δ Cas	A5 Vv SB	1	25	48.6	1	60	14	7.5	2.68		4					
+ε Cas	B2 pvar	1	54	23.68	1	63	40	12.5	3.35		5					
+η Cas	G0 V SB	0	49	5.1	1	57	48	59.6	3.46							
+ζ Cas	B2 IV	0	36	58.27	1	53	53	49	3.69							
+50 Cas	A2 V	2	3	26.19	1	72	25	16.5	3.95							
+																
+Cepheus (Cep)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		6	2	0	0	0	0
+α Cep	A7 IV-V	21	18	34.58	1	62	35	7.6	2.45		2	2				
+γ Cep	K1 IV	23	39	20.98	1	77	37	55.1	3.21		4					
+β Cep	B2 IIIv SB	21	28	39.58	1	70	33	38.5	3.23		3					
+ζ Cep	K1 Ibv SB	22	10	51.26	1	58	12	4.5	3.39		6	1				
+η Cep	K0 IV	20	45	17.27	1	61	50	12.5	3.41		1					
+ι Cep	K0 III	22	49	40.91	1	66	12	2.6	3.5		5					
+																
+Lacerta (Lac)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		0	0	0	0	0	0
+α Lac	A1 V	22	31	17.38	1	50	16	56.8	3.76							
+																
+Pegasus (Peg)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		7	5	2	0	0	0
+ε Peg	K2 Ibvar	21	44	11.14	1	9	52	30	2.38		1					
+β Peg	M2 II-IIIvar	23	3	46.33	1	28	4	56.8	2.44		7	2	1			
+α Peg	B9.5 III	23	4	45.62	1	15	12	19.3	2.49		4		2			
+γ Peg	B2 IV	0	13	14.15	1	15	11	1	2.83		5					
+η Peg	G2 II-III	22	43	0.13	1	30	13	16.7	2.93			1				
+ζ Peg	B8.5 V	22	41	27.67	1	10	49	53	3.41		3					
+μ Peg	M2 III	22	50	0.1	1	24	36	6.1	3.51			3				
+θ Peg	A2 V	22	10	11.82	1	6	11	52	3.52		2					
+ι Peg	F5 V	22	7	0.47	1	25	20	42.2	3.77			5				
+λ Peg	G8 II-III	22	46	31.84	1	23	33	56.4	3.97			4				
+^α And, And	B9 p	0	8	23.17	1	29	5	27	2.07		6					
+																
+Cetus (Cet)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		9	2	0	0	0	0
+β Cet	K0 III	0	43	35.23	-1	17	59	12.1	2.04		8					
+α Cet	M2 III	3	2	16.78	1	4	5	23.7	2.54		1					
+Mira, ο Cet	M5 e-M9 e	2	19	20.79	-1	2	58	37.4	3.04		3					
+η Cet	K2 III	1	8	35.26	-1	10	10	54.9	3.46		6					
+γ Cet	A3 V	2	43	18.12	1	3	14	10.2	3.47		2					
+τ Cet	G8 V	1	44	5.13	-1	15	56	22.4	3.49		9	1				
+ι Cet	K2 III	0	19	25.68	-1	8	49	25.8	3.56		7					
+θ Cet	K0 III	1	24	1.45	-1	8	10	57.9	3.6		5					
+ζ Cet	K2 III	1	51	27.61	-1	10	20	5.8	3.74		4	2				
+υ Cet	K5 / M0 III	2	0	0.22	-1	21	1	40	3.99							
