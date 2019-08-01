@@ -1,0 +1,53 @@
+﻿Canis Minor (CMi)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		2	0	0	0	0	0
+Procyon, α CMi	F5 IV-V	7	39	18.54	1	5	13	39	0.34		1					
+β CMi	B8 Vvar	7	27	9.07	1	8	17	21.9	2.89		2					
+																
+Monoceros (Mon)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		0	0	0	0	0	0
+α Mon	K0 III	7	41	14.88	-1	9	33	3.9	3.94							
+γ Mon	K3 III	6	14	51.34	-1	6	16	29	3.99							
+																
+Orion (Ori)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		10	3	2	0	0	0
+Rigel, β Ori	B8 Ia + B9 V + B9 V	5	14	32.27	-1	8	12	5.9	0.18		9					
+Betelgeuse, α Ori	M2 Ib	5	55	10.29	1	7	24	25.3	0.42		6					
+Bellatrix, γ Ori	B2 III	5	25	7.87	1	6	20	59	1.64		4		2			
+Alnilam, ε Ori	B0 Ia	5	36	12.81	-1	1	12	6.9	1.69			2				
+Alnitak A, ζ Ori	O9.7 Ib	5	40	45.52	-1	1	56	33.3	1.88		7	3				
+Saiph, κ Ori	B0.5 Ia	5	47	45.39	-1	9	40	10.6	2.07		8					
+Mintaka AB, δ Ori	B0 III + O9 V	5	32	0.4	-1	0	17	56.7	2.2		10	1	1			
+ι Ori	O9 III	5	35	25.98	-1	5	54	35.6	2.75							
+π3 Ori	F6 V	4	49	50.14	1	6	57	40.5	3.19		3					
+η Ori	B1 V +B2	5	24	28.62	-1	2	23	49.7	3.35							
+Meissa A, κ Ori	O8 III	5	35	8.28	1	9	56	3	3.47		5					
+τ Ori	B5 III	5	17	36.4	-1	6	50	39.8	3.59							
+π4 Ori	B2 III	4	51	12.37	1	5	36	18.4	3.68		2					
+Alnitak B, ζ Ori	B0 III + B1 IV	5	40	45.6	-1	1	56	34	3.7							
+π5 Ori	B2 III	4	54	15.1	1	2	26	26.4	3.71		1					
+σ Ori AB	O9.5 V	5	38	44.77	-1	2	36	0.2	3.77							
+																
+Canis Major (CMa)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		6	2	0	0	0	0
+Sirius A and B, α Cma	A0 mA1 Va	6	45	9.25	-1	16	42	47.3	-1.46		2					
+ε Cma	B2 II	6	58	37.55	-1	28	58	19.5	1.5		5					
+δ Cma	F8 Ia	7	8	23.49	-1	26	23	35.5	1.83		4	1				
+β Cma	B1 II/III	6	22	41.99	-1	17	57	21.3	1.98		1					
+η Cma	B5 Ia	7	24	5.71	-1	29	18	11.2	2.45			2				
+ζ Cma	B2.5 V	6	20	18.79	-1	30	3	48.2	3.02		6					
+ο2 Cma	B3 Ia	7	3	1.47	-1	23	49	59.9	3.02		3					
+σ Cma	K4 III	7	1	43.15	-1	27	56	5.4	3.49							
+κ Cma	B1.5 Ivne	6	49	50.47	-1	32	30	30.6	3.5							
+ο1 CMa	K3 Iab	6	54	7.95	-1	24	11	3.2	3.89							
+ν2 CMa	K1 III	6	36	41	-1	19	15	20.6	3.95							
+																
+Lepus (Lep)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		4	7	0	0	0	0
+α Lep	F0 Ib	5	32	43.81	-1	17	49	20.3	2.58		1	2				
+β Lep	G5 II	5	28	14.73	-1	20	45	33.2	2.81		2	7				
+ε Lep	K4 III	5	5	27.65	-1	22	22	15.1	3.19		3					
+μ Lep	B9 IV: HgMn	5	12	55.87	-1	16	12	19.5	3.29		4	1				
+ζ Lep	A2 Vann	5	46	57.35	-1	14	49	19	3.55			3				
+γ Lep	F7 V	5	44	27.97	-1	22	26	51	3.59			6				
+η Lep	F1 V	5	56	24.32	-1	14	10	4.9	3.71			4				
+δ Lep	G8 III/IV	5	51	19.15	-1	20	52	39	3.76			5				
