@@ -1,0 +1,79 @@
+﻿Corona Borealis (CrB)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		3	0	0	0	0	0
+α CrB	A0 V	15	34	41.19	1	26	42	53.7	2.22		2					
+β CrB	F0 p	15	27	49.85	1	29	6	19.8	3.66		3					
+γ CrB	A1 Vs	15	42	44.64	1	26	17	43.9	3.81		1					
+																
+Boötes (Boo)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		7	3	0	0	0	0
+Arcturus, α Boo	K2 IIIp	14	15	40.35	1	19	11	14.2	-0.05		2	2				
+ε Boo	K0 II-III	14	44	59.25	1	27	4	27	2.35		3					
+η  Boo	G0 IV	13	54	41.12	1	18	23	54.9	2.68			3				
+γ Boo	A7 IIIvar	14	32	4.76	1	38	18	28.4	3.04		6					
+δ Boo	G8 III	15	15	30.1	1	33	18	54.4	3.46		4					
+β Boo	G8 III	15	1	56.79	1	40	23	26.3	3.49		5					
+ρ Boo	K3 III	14	31	49.86	1	30	22	16.1	3.57		7	1				
+ζ Boo	A3 Ivn	14	41	8.92	1	13	43	42	3.78		1					
+																
+*Coma Berenices (Com)		RA				Dec			mag							
+																
+Canes Venatici (CVn)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		0	0	0	0	0	0
+Cor Caroli, α2 CVn	A0 spe	12	56	1.84	1	38	19	5.7	2.89							
+																
+Leo Minor (LMi)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		0	0	0	0	0	0
+46 Lmi	K0 III-IV	10	53	18.64	1	34	12	56	3.79							
+																
+Ursa Major (UMa)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		7	6	2	5	5	2
+ε UMa	A0 p	12	54	1.63	1	55	57	35.4	1.76		3					
+α UMa	F7 Vcomp	11	3	43.84	1	61	45	4	1.81		5			1		
+η UMa	B3 V SB	13	47	32.55	1	49	18	47.9	1.85		1					
+Mizar, ζ1 Uma	A2 V SB	13	23	55.54	1	54	55	31.3	2.23		2					
+β UMa	A1 V	11	1	50.39	1	56	22	56.4	2.34		6			5		
+γ UMa	A0 V SB	11	53	49.74	1	53	41	41	2.41		7		2			1
+ψ UMa	K1 III	11	9	39.86	1	44	29	54.8	3			4				
+μ UMa	M0 III SB	10	22	19.8	1	41	29	58	3.06			5				
+ι UMa	A7 IV	8	59	12.84	1	48	2	32.5	3.12						5	
+θ UMa	F6 IV	9	32	52.33	1	51	40	43	3.17						3	
+δ UMa	A3 Vvar	12	15	25.45	1	57	1	57.4	3.32		4					2
+ο UMa	G4 II-III	8	30	16.03	1	60	43	6.4	3.35					3		
+λ UMa	A2 IV	10	17	5.93	1	42	54	52.1	3.45			6				
+ν UMa	K3 III SB	11	18	28.76	1	33	5	39.3	3.49			2				
+κ UMa	A1 Vn	9	3	37.45	1	47	9	24	3.57						4	
+23 UMa	F0 IV	9	31	31.57	1	63	3	45.5	3.65					2	1	
+χ UMa	K0 III	11	46	3.13	1	47	46	45.6	3.69			3	1			
+υ UMa	F0 IV	9	50	56.69	1	59	2	20.8	3.78					4	2	
+ξ UMa A	G0 B	11	18	11.24	1	31	31	50.8	3.79			1				
+ζ UMa	A3 m	13	23	56.33	1	54	55	18.6	3.88							
+Alcor, g Uma	A5 Vn	13	25	13.54	1	54	59	16.7	3.99							
+																
+Lynx (Lyn)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		3	0	0	0	0	0
+α Lyn	K7 IIIvar	9	21	3.46	1	34	23	33.1	3.14		1					
+38 Lyn	A1 V	9	18	50.67	1	36	48	10.4	3.82		2					
+10 Uma	F5 V	9	0	38.75	1	41	47	0.4	3.96		3					
+																
+*Camelopardalis (Cam)		RA				Dec			mag							
+																
+Draco (Dra)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		11	2	0	0	0	0
+γ Dra	K5 III	17	56	36.38	1	51	29	20.2	2.24		1					
+η Dra	G8 III	16	23	59.51	1	61	30	50.7	2.73		7					
+β Dra	G2 II	17	30	25.98	1	52	18	4.9	2.79		2					
+δ Dra	G9 III	19	12	33.15	1	67	39	40.7	3.07		4	2				
+ζ Dra	B6 III	17	8	47.23	1	65	42	52.7	3.17		6					
+ι Dra	K2 III	15	24	55.78	1	58	57	57.7	3.29		8					
+χ Dra	F7 Vvar	18	21	2.34	1	72	44	1.3	3.55		5					
+Thuban, α Dra	A0 III SB	14	4	23.43	1	64	22	32.9	3.67		9					
+ξ Dra	K2 III	17	53	31.63	1	56	52	20.8	3.73		3					
+λ Dra	M0 IIIvar	11	31	24.29	1	69	19	52	3.82		11					
+ε Dra	G8 III	19	48	10.21	1	70	16	4.2	3.84			1				
+κ Dra	B6 IIIp	12	33	29.04	1	69	47	17.6	3.85		10					
+																
+Ursa Minor (UMi)		RA				Dec			mag							
+Star	SpecClass	h	m	s		deg	arcmin	arcsec	vm		2	0	0	0	0	0
+Polaris, α Umi	F7 :Ib-IIv SB	2	31	47.08	1	89	15	50.9	1.97							
+β Umi	K4 IIIvar	14	50	42.4	1	74	9	19.7	2.07		2					
+γ Umi	A3 II-III	15	20	43.75	1	71	50	2.3	3.04		1					
